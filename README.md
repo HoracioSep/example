@@ -1,2 +1,2 @@
 # example
-short description
+long and complicated description
